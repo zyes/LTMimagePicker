@@ -1,0 +1,3 @@
+# LTMimagePicker
+提高自定义相册的流畅度
+对于自定义相册最主要的问题就是没有一个很好的流畅度，主要也就是collectionview的cellitem的复用的问题
