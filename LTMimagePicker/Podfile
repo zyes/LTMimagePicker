@@ -1,0 +1,9 @@
+platform :ios, '8.0'
+use_frameworks!
+target 'LTMimagePicker' do 
+pod 'MBProgressHUD', '~> 0.8'
+pod 'YYKit'
+pod 'Reachability'
+pod 'SDWebImage', '~> 3.7.3'
+pod 'MJExtension', '~> 2.5.5'
+end
